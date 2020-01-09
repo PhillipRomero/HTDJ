@@ -99,7 +99,7 @@ p {
   color: var(--secondary-color);
   justify-content: space-between;
   z-index: 1;
-  padding: 1rem;
+  padding: 0.75rem;
 }
 
 #navbar ul{
@@ -136,7 +136,7 @@ p {
   
   /* Overlay */
   position: absolute;
-  top: 68px;
+  top: 60px;
   left: 0;
   right: 0;
   bottom:0;
@@ -242,7 +242,7 @@ p {
      }
   
      #showcase .showcase-content {
-       top: 100px;
+       top: 90px;
        margin-top: - 2rem;
      }
   
